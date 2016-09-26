@@ -1,0 +1,43 @@
+body {
+	background-color: #e6ffff;
+	
+	
+}
+
+#banner {
+	background-color: #DDFFDD;
+	 background: linear-gradient(red, yellow); 
+}
+
+
+
+h1 {
+	
+	color: Green;
+	text-align: center; 
+	  text-shadow: -5px 5px 5px #FF0000
+}
+
+h2 {
+	color: green;
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+
+#Basketball2 {
+	border-style: ridge;
+	border-width: 20px;
+	border-color:#673AB7;
+	padding: 10px;
+	box-shadow: 10px 10px 20px #0000FF;
+	
+}
+#mySlides {
+	border-style: ridge;
+	border-width: 20px;
+	border-color:#673AB7;
+	padding: 30px;
+	box-shadow: 10px 10px 20px #0000FF;
+}
